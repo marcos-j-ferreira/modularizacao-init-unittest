@@ -10,11 +10,15 @@ A previously developed project, reused here to apply the concept of modularizati
 
 > *Note:* Below is the folder structure of the project, illustrating the modular approach:
 
-`projeto_tarefas/  
-├── main.py         # The kernel of the program, responsible for initializing and coordinating function calls  
-├── tarefas.py      # Core functions such as add, list, complete tasks  
-├── utils.py        # Auxiliary functions (e.g., generating unique IDs)  
-├── tarefas.json    # Simulated non-relational database  
+projeto_tarefas/  
+├── main.py         # 
+|                    The kernel of the program, responsible for initializing and coordinating function calls  
+├── tarefas.py      # 
+|                    Core functions such as add, list, complete tasks  
+├── utils.py        # 
+|                    Auxiliary functions (e.g., generating unique IDs)  
+├── tarefas.json    # 
+|                    Simulated non-relational database  
 └── README.md`
 
 ### main.py
