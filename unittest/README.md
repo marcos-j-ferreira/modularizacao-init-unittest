@@ -1,6 +1,5 @@
 Claro! Aqui está a seção sobre `unittest`, escrita no mesmo estilo dos anteriores e pronta para ser incluída em um README em Markdown:
 
-````markdown
 # unittest
 
 A built-in Python module used for writing and running automated tests.
@@ -45,5 +44,3 @@ python test_my_module.py
 ```
 python -m unittest test_my_module.py
 ```
-
----
